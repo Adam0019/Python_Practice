@@ -18,3 +18,6 @@ for i in range ( 1, b+1):
 d=f+o
 l.append(d)
 print(l)
+
+l.reverse()
+print(l)
